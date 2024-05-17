@@ -1,6 +1,7 @@
 <h1>Sammy Supplies</h1>
-<p>START
-     DISPLAY "Sammy's Seashore Supplies"
+<p>START</p>
+     
+     <p>DISPLAY "Sammy's Seashore Supplies"
 
      INPUT "Enter the number of minutes you rented the equipment:" INTO minutesRented
 
@@ -11,4 +12,4 @@
      DISPLAY "Hours: " + hoursRented
      DISPLAY "Minutes: " + additionalMinutes
      DISPLAY "Total cost: R" + totalCost</p>
-END</p>
+<p>END</p>
