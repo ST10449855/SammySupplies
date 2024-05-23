@@ -12,4 +12,5 @@
      DISPLAY "Hours: " + hoursRented
      DISPLAY "Minutes: " + additionalMinutes
      DISPLAY "Total cost: R" + totalCost
-<p>END</p>
+<p>END</p[START.docx](https://github.com/ST10449855/SammySupplies/files/15420777/START.docx)
+>
